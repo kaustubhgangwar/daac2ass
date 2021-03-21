@@ -46,4 +46,5 @@ The number of occurrences is simply the last occurrence – first occurrence + 1
 ---
 
 ***Time Complexity –*** O(logN) where N is the size of the array. Here we use a binary search which leads us to logN time complexity.
+
 ***Space Complexity –*** O(1) because we don’t use any auxiliary space here.
